@@ -1,4 +1,3 @@
-# BOMP
-Implementation of Block Orthogonal Matched Pursuit
+# OPBOMP
+Implementation in Verilog of Only Positive Block Orthogonal Matched Pursuit
 
-Simulations in MATLAB && Implementation in Verilog of OPBOMP
